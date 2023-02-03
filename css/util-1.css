@@ -1,0 +1,48 @@
+.max-width-1{
+    max-width: 80vw;
+}
+.max-width-2{
+    max-width: 60vw;
+}
+.m-auto{
+    margin: auto;
+}
+.btn{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 6px 35px;
+    font-weight:bolder;
+    font-family: var(--font-nav);
+    background-color: rgb(28, 68, 244);
+    cursor: pointer;
+    margin-left: 10px;
+    color: aliceblue;
+}
+.btn-getstart{
+    background-color:  rgb(15 32 251);
+    border: 0;
+}
+.page-header-up{
+    font-size: 40px;
+    margin: 20px 30px;
+}
+.page-header-down{
+    margin: 0 150px;
+    font-size: 20px;
+}
+.box{
+    display: flex;
+    margin: 40px 5px;
+    justify-content: space-around;
+}
+.upper-box{
+    width: 100%;
+    height: 100%;
+    margin: 7px;
+    padding: 5px;
+    border: 0;
+    border-radius: 10px;
+}
+.upper-box:hover{
+    background-color: #e1ecec;
+}
